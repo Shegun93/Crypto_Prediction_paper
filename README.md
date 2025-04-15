@@ -38,4 +38,3 @@ cd Crypto_Prediction_paper
 ```
 pip install -r requirements.txt
 ```
-
