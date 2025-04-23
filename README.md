@@ -1,5 +1,5 @@
 ## Cryptocurrency Price Prediction using LSTM and GRU
-This repository contains the code and results for the paper titled "Deep Neural Network: Predicting the Future Prices of Cryptocurrency using LSTM and GRU". The project focuses on predicting the future prices of Bitcoin (BTC) and Ethereum (ETH) using Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) models.
+This repository contains the code and results for the paper title "Deep Neural Network: Predicting the Future Prices of Cryptocurrency using LSTM and GRU". The project focuses on predicting the future prices of Bitcoin (BTC) and Ethereum (ETH) using Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) models. the early copy of this paper could be accessed here https://www.preprints.org/manuscript/202310.0316/v1
 
 ## Table of Contents
 - Overview
