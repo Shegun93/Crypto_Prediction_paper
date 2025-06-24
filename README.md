@@ -10,7 +10,7 @@ This repository contains the code and results for the paper titled "Deep Neural 
 - Contributing
 
 ## Overview
-The project explores applying deep learning techniques, specifically LSTM and GRU, to predict cryptocurrency prices. The notebook provided (Paper-BTC-original.ipynb) demonstrates the LSTM method discussed in the paper, including data preprocessing, model training, and visualization of results.
+The project explores the application of deep learning techniques, specifically LSTM and GRU, to predict cryptocurrency prices. The notebook provided (Paper-BTC-original.ipynb) demonstrates the LSTM method discussed in the paper, including data preprocessing, model training, and visualization of results.
 ## Porject directory
 ```
 .
